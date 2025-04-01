@@ -5,6 +5,11 @@ __pycache__/
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
 
+# Output files
+*.json
+*.txt
+*.bpe
+
 # Virtual Environment
 venv/
 env/

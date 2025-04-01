@@ -12,5 +12,6 @@ ENV/
 
 # IDE settings
 .vscode/
+.cursor/
 .idea/
 .DS_Store

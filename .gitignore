@@ -9,6 +9,11 @@ __pycache__/
 *.json
 *.txt
 *.bpe
+*.pth
+
+# GPT model files
+**/gpt2/
+**/gpt2/**
 
 # Virtual Environment
 venv/

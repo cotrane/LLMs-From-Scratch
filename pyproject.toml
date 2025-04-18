@@ -16,6 +16,7 @@ dependencies = [
     "jupyterlab-mathjax3>=4.3.0",
     "matplotlib>=3.10.1",
     "numpy>=1.26.0,<2.1.0",
+    "pandas>=2.2.3",
     "tensorflow>=2.15.0",
     "tiktoken>=0.9.0",
     "torch>=2.6.0",

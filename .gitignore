@@ -10,6 +10,9 @@ __pycache__/
 *.txt
 *.bpe
 *.pth
+*.csv
+*.pdf
+*.zip
 
 # GPT model files
 **/gpt2/
